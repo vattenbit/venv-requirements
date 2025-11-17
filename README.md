@@ -6,6 +6,7 @@ This repository stores the latest requirements for my experiments.
 | Name | Python Version | Description              |
 |-----------------|----------------|--------------------------|
 | ansible11       | 3.x            | Virtualenv for Ansible 11|
+| ansible12       | 3.x            | Virtualenv for Ansible 12|
 
 ## Generate Venv
 First, you need to create a virtual environment using Python 3
